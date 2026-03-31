@@ -54,5 +54,20 @@ void tampilFibonacci() {
 
 // fungsi menu
 void menu() {
-    
+    cout << "\n=== MENU ===\n";
+    cout << "1. Cek Bilangan Prima\n";
+    cout << "2. Cek Bilangan Fibonacci\n";
+    cout << "0. Keluar\n";
+    cout << "pilihan: ";
+    cin >> pilihan;
+}
+
+int main() {
+    while (true) {
+        menu();
+        switch (pilihan) {
+            case 1:
+                tampilPrima();
+        }
+    }
 }
