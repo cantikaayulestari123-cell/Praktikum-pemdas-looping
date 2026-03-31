@@ -37,5 +37,6 @@ void inputAngka() {
 //prosedur tampil hasil prima
 void tampilPrima() {
 inputAngka();
-
+if (cekPrima(angka))
+    cout << angka << "adalah bilangan prima. \n";
 }
