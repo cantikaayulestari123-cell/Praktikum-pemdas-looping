@@ -36,5 +36,6 @@ void inputAngka() {
 
 //prosedur tampil hasil prima
 void tampilPrima() {
+inputAngka();
 
 }
