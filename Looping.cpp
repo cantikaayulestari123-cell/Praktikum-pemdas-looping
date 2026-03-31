@@ -30,6 +30,7 @@ bool cekFibonacci(int n) {
 
 //prosedur input angka
 void inputAngka() {
-    
+    cout << "Masukkan angka: "
+
 }
 
