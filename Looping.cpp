@@ -42,3 +42,8 @@ if (cekPrima(angka))
 else
     cout << angka << " bukan bilangan prima. \n";    
 }
+
+// prosedur tampil hasil fibonacci
+void tampilFibonacci() {
+
+}
