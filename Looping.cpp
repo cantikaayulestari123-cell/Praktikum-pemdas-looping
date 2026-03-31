@@ -50,5 +50,9 @@ void tampilFibonacci() {
         cout << angka << " termasuk dalam deret fibonacci.\n";
     else
         cout << angka << " tidak termasuk dalam deret Fibonacci.\n";
+}
 
+// fungsi menu
+void menu() {
+    
 }
