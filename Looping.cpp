@@ -45,5 +45,6 @@ else
 
 // prosedur tampil hasil fibonacci
 void tampilFibonacci() {
+    inputAngka();
 
 }
