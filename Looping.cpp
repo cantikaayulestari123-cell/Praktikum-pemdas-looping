@@ -46,5 +46,7 @@ else
 // prosedur tampil hasil fibonacci
 void tampilFibonacci() {
     inputAngka();
+    if (cekFibonacci(angka))
+        cout << angka << " termasuk dalam deret fibonacci.\n";
 
 }
