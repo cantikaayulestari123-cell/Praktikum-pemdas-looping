@@ -68,6 +68,10 @@ int main() {
         switch (pilihan) {
             case 1:
                 tampilPrima();
+                break;
+            case 2:
+                tampilFibonacci();
+                break;
         }
     }
 }
