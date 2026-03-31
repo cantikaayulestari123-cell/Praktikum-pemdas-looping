@@ -25,5 +25,11 @@ bool cekFibonacci(int n) {
         a = b;
         b = next;
     }
+    return false;
+}
+
+//prosedur input angka
+void inputAngka() {
+    
 }
 
